@@ -15,7 +15,7 @@ import com.jsp.cms.entity.User;
 
 @WebServlet("/addContact")
 public class AddContact extends HttpServlet{
-
+	//addcontact
 	@Override
 	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		Contact contact=new Contact();
