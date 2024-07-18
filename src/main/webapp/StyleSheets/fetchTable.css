@@ -1,0 +1,16 @@
+<style type="text/css">
+th {
+  background-color: #04AA6D;
+  color: white;
+}
+tr:nth-child(even){
+background-color: #f2f2f2;
+}
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+</style>
